@@ -1,6 +1,6 @@
 # Overview
 
-This is part 2 of my Connect 4 mobile app project. My primary objective in this project was to create user interface for my Connect 4 [Kotlin-Project](https://github.com/nomclawson/Kotlin-Project) for a mobile app. The MainActivity.kt file can be found [here](https://github.com/nomclawson/Connect-4-Mobile-App/tree/master/app/src/main/java/com/example/helloworld).
+This is part 2 of my Connect 4 mobile app project. My primary objective in this project was to create user interface for my Connect 4 [Kotlin-Project](https://github.com/nomclawson/Kotlin-Project) for a mobile app. The Kotlin code for `MainActivity.kt` file can be found [here](https://github.com/nomclawson/Connect-4-Mobile-App/tree/master/app/src/main/java/com/example/helloworld).
 
 
 This app is designed for 2 players on 1 device. Each player selects which column they want to drop their gamepiece into. The object of this game is to get 4 of your gamepieces in a line (vertical, horizontal, or diagnal). Upon winning, the players are allowed to start a new game which clears the board.
