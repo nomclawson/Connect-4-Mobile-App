@@ -1,6 +1,6 @@
 # Overview
 
-This is part 2 of my Connect 4 mobile app project. My primary objective in this project was to create user interface for my Connect 4 [Kotlin-Project](https://github.com/nomclawson/Kotlin-Project) for a mobile app. The Kotlin code for `MainActivity.kt` file can be found [here](https://github.com/nomclawson/Connect-4-Mobile-App/tree/master/app/src/main/java/com/example/helloworld).
+This is part 2 of my month long Connect 4 mobile app project. My primary objective in this project was to create user interface for my Connect 4 [Kotlin-Project](https://github.com/nomclawson/Kotlin-Project) for a mobile app. The Kotlin code for `MainActivity.kt` file can be found [here](https://github.com/nomclawson/Connect-4-Mobile-App/tree/master/app/src/main/java/com/example/helloworld).
 
 ![Connect 4 Icon](https://github.com/nomclawson/Connect-4-Mobile-App/blob/master/app/src/main/res/drawable/connect_4_icon_square.png?raw=true)
 
